@@ -1,0 +1,17 @@
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\LogicDive\bin\Debug\LogicDive.exe.config
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\LogicDive\bin\Debug\LogicDive.exe
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\LogicDive\bin\Debug\LogicDive.pdb
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\LogicDive\obj\Debug\LogicDive.csprojAssemblyReference.cache
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\LogicDive\obj\Debug\LogicDive.Properties.Resources.resources
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\LogicDive\obj\Debug\LogicDive.csproj.GenerateResource.cache
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\LogicDive\obj\Debug\LogicDive.csproj.CoreCompileInputs.cache
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\LogicDive\obj\Debug\LogicDive.exe
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\LogicDive\obj\Debug\LogicDive.pdb
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\LogicDive\obj\Debug\LogicDive.GameForm.resources
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\LogicDive\bin\Debug\Interop.WMPLib.dll
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\LogicDive\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\LogicDive\obj\Debug\Interop.WMPLib.dll
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\LogicDive\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\LogicDive\obj\Debug\LogicDive.csproj.ResolveComReference.cache
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\LogicDive\obj\Debug\LogicDive.IntroForm.resources
+C:\Users\ASUS.LAPTOP-O687HM47\source\repos\LogicDive\obj\Debug\LogicDive.IntructForm.resources
